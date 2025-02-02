@@ -5,6 +5,13 @@
 Ce projet a pour objectif de crawler, scraper et analyser des sites web afin d'extraire des informations clés telles que les titres, paragraphes et liens. Les données collectées sont ensuite traitées et sauvegardées pour des analyses approfondies, avec des métriques calculées pour chaque page visitée.
 Le projet inclut également des outils pour générer des rapports basés sur les données extraites, faciliter la navigation et maintenir un suivi des sites explorés.
 
+## Contexte
+
+Avec 10 ans d'expérience dans le secteur des ONG, le constat est clair : les associations ont besoins d'outils performants à moindres coûts pour l'ensemble des processus métiers. 
+C'est cela qui m'a amené à parfaire mes compétences en analyse de données et à imaginer ce projet en parallèle de ma formation de Data Analyst afin de mettre en oeuvre et améliorer mes compétences en scraping. 
+
+La partie du projet développée actuellement (analyses à partir du code html des pages) sera être complété avec des analyses de performances des pages via l'outil Lighthouse. Pour un usage sur son propre site web, cela pourrait également être complété avec les analyses du traffic sur le site (Google Analytics ou Matomo). 
+
 ## Fonctionnalités principales
 
 1. Crawling
